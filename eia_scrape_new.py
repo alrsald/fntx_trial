@@ -1,6 +1,4 @@
 import pandas as pd 
-import requests
-from bs4 import BeautifulSoup
 
 url = "https://www.eia.gov/electricity/annual/html/epa_11_01.html"
 
